@@ -4,11 +4,11 @@ html{
 .sidenav a{
     text-decoration: none;
 }
-.sidenav{
+/* .sidenav{ */
     /* display: flex;
     flex-direction: column; */
-    width:5px;
-}
+    /* width:5px; */
+/* } */
 .sidenav {
     height: 100vh;
     width: 50px;
@@ -89,24 +89,28 @@ html{
     flex-wrap: wrap;
 }
 .Profile{
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
     border-radius: 50px;
     display:block;
 }
 .title{
     display:flex;
     justify-content: flex-start;
+    /* margin-top: 5px; */
 }
 .title>ul{
     padding-left:1rem;
+    margin-top: 5px;
 }
 .title li{
     list-style: none;
 }
 .title li:first-child{
     font-weight: 900;
+    margin-bottom: 1rem;
 }
 #content>div{
     margin-left:30px;
+    margin-bottom: 30px;
 }
