@@ -1,5 +1,5 @@
 html{
-    margin-left: 50px;
+    margin-left: 70px;
 }
 .sidenav a{
     text-decoration: none;
@@ -11,7 +11,7 @@ html{
 /* } */
 .sidenav {
     height: 100vh;
-    width: 50px;
+    width: 70px;
     position: fixed;
     z-index: 1;
     top: 14px;
@@ -41,17 +41,17 @@ html{
       align-items: center;
   }
   .filters{
-      margin-left:26px;
+      margin-left:45px;
   }
   #placeholder{
       margin-left:4rem;
       height:2.5rem;
       width:27rem;
-      border: thin solid green;
+      border: thin solid gray;
   }
   .fa-solid.fa-magnifying-glass{
       padding:0.85rem;
-      border: thin solid green;
+      border: thin solid gray;
   }
   .filters>button{
       /* height:1rem; */
