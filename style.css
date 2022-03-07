@@ -42,9 +42,10 @@ html{
   }
   .filters{
       margin-left:45px;
+
   }
   #placeholder{
-      margin-left:4rem;
+      margin-left:9rem;
       height:2.5rem;
       width:27rem;
       border: thin solid gray;
@@ -58,9 +59,12 @@ html{
       height: 2rem;
       border-radius: 0.8rem;
       border-color: #e1dddd;
+      margin-left: 5px;
+      margin-top: 3px;
+      margin-bottom: 3px;
   }
   #menu{
-    margin-bottom: 2.3rem;
+    margin-bottom: 3.5rem;
     display:block;
   }
   #Premium>img{
@@ -111,6 +115,6 @@ html{
     margin-bottom: 1rem;
 }
 #content>div{
-    margin-left:30px;
+    margin-left:20px;
     margin-bottom: 30px;
 }
